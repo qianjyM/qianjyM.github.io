@@ -12,6 +12,6 @@ My research interests include Large Language Models (LLMs), model compression, m
 
 I am fortunate to be advised by Prof. Yingyan Lin at Georgia Tech. During my time at Tsinghua University, I was advised by Prof. Gang Liu.
 
-You can find my CV here: [XX's Curriculum Vitae].
+You can find my CV here: [Jiayi's Curriculum Vitae](../assets/CV-Jiayi.pdf).
 
 
